@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/screenfly.org_.png)
+![](./screenshots/desktop.png)
 ![](./screenshots/mobile.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://blogr-rose.vercel.app/](https://blogr-rose.vercel.app/)
 
 ## My process
 
